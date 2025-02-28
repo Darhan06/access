@@ -1,0 +1,12 @@
+{
+  "devices": [
+    {
+      "android_id": "64b2408e54ad512f",
+      "access_duration": 2592000000
+    },
+    {
+      "android_id": "64b2408e54ad512f",
+      "access_duration": 5184000000
+    }
+  ]
+}
